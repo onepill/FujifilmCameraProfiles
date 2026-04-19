@@ -28,6 +28,7 @@ Included for each profile are:
 * cube luts (3d rgb look-up-table)
   * .cube in both DisplayP3 and sRGB
   * .png lut (HaldCLUT) in sRGB
+* icc/icm files(which Capture One could use)
 
 For more details on editing profiles and making a linear profile for use with the luts, see my blog post [Making Linear Camera Profiles with dcpTool](https://abpy.github.io/2023/05/20/linear-profiles.html)
 
