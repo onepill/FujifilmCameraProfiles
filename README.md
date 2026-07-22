@@ -31,6 +31,7 @@ Included for each profile are:
 * icc/icm files(which Capture One could use)
   * profiles in the 50% folder are lighter versions
 
+
 For more details on editing profiles and making a linear profile for use with the luts, see my blog post [Making Linear Camera Profiles with dcpTool](https://abpy.github.io/2023/05/20/linear-profiles.html)
 
 The cube LUTs are intended to be applied to an image with linear contrast. A linear camera profile is required for a correct result. See below for details
